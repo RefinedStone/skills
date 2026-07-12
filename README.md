@@ -1,3 +1,5 @@
+# browsing
+skills.sh
 # skills
 
 1. Karpathy Guidelines
